@@ -1,0 +1,14 @@
+{
+    "name": "technetto/tnmails",
+    "description": "APIs for TNMails.com",
+    "require": {
+        "guzzlehttp/guzzle": "~5.0"
+    },
+    "authors": [
+        {
+            "name": "Technetto",
+            "email": "dev@technetto.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
